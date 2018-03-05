@@ -6,8 +6,8 @@
 
 
 define("SOAP_CLIENT_BASEDIR", "../soapclient");
-$USERNAME='trannicholas@yahoo.com';
-$PASSWORD='changeme';
+$USERNAME='rajib.naskar@codaemonsoftwares.com';
+$PASSWORD='Kolkata2018';
 require_once (SOAP_CLIENT_BASEDIR.'/SforcePartnerClient.php');
 require_once (SOAP_CLIENT_BASEDIR.'/SforceHeaderOptions.php');
 
