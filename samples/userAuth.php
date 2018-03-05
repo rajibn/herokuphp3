@@ -4,8 +4,8 @@
 |  This file is included in each of the SAMPLES
 \--------------------------------------------------------*/
 
-$USERNAME = "PUT YOUR salseforce USER NAME";
-$PASSWORD = "PUT YOUR PASSWORD along with TOKEN";
+$USERNAME = "rajib.naskar@codaemonsoftwares.com";//"PUT YOUR salseforce USER NAME";
+$PASSWORD = "Kolkata2018";//"PUT YOUR PASSWORD along with TOKEN";
 
 /*--------------------------------------------------------\
 |  Create a Lead using the salesforce account 
